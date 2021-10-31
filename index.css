@@ -114,3 +114,25 @@ h3{
   padding: 50%;
   border-radius: 20px;
 }
+
+.phase3-container{
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  position: relative;
+  height: 100%;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10%;
+}
+
+.menu{
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  display: flex;
+  padding: 5%;
+  justify-content: space-around;
+  margin-bottom: 1%;
+}
