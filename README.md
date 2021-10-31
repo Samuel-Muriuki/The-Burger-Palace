@@ -3,7 +3,7 @@
 # Author:
 Samuel Muriuki
 
-# set up
+# Set-up
 https://samuel-muriuki.github.io/The-Burger-Palace/
 
 # LICENCE
