@@ -40,10 +40,13 @@ ul{
 .header-container{
   display: flex;
   flex-direction: row;
-  text-align: center;
+  text-align: left;
   height: 100%;
-  justify-content: space-around;
-  align-items: center;
+  font-family: "poppins";
+  width: 100%;
+  padding-left: 5%;
+  padding-top: 10%;
+  align-items: left;
 }
 
 .header-left{
@@ -56,8 +59,9 @@ h3{
 
 .button{
   border: 1px solid;
+  width: fit-content;
   border-color: orange;
-  background-color: orange;
+  background-color: #F6B400;
   padding: 10px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
