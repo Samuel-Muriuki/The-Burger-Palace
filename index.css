@@ -1,0 +1,38 @@
+html, body{
+  margin: 0%;
+}
+
+.container{
+  display: flex;
+  height: 50em;
+  flex-direction: column;
+  background: linear-gradient(120deg, #fff 50%, orange 50%);
+}
+
+.left{
+  flex: auto;
+  display: flex;
+  float: left;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.right{
+  flex: auto;
+  display: flex;
+  width: 65%;
+  float: right;
+}
+
+.right > ul{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.orng{
+  color: rgb(255, 198, 92);
+}
