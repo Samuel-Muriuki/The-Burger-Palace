@@ -68,3 +68,24 @@ h3{
   border-bottom-right-radius: 0px;
   border-bottom-left-radius: 10px;
 }
+
+.rltv->img{
+  position: relative;
+  margin-left: -45rem;
+  width: 35rem;
+  height: 40rem;
+}
+
+.phase2-container{
+  background-color: #f0f8f8;
+  display: flex;
+  margin-top: auto;
+  margin-bottom: 30%;
+  flex-direction: row;
+  text-align: center;
+  position: relative;
+  height: 100%;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10%;
+}
