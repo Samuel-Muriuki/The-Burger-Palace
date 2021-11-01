@@ -216,4 +216,10 @@ div {
   color: rgb(255, 136, 0);
 }
 
+.underline{
+  text-decoration: underline;
+  text-decoration-thickness: 6px;
+  text-decoration-color: red;
+  text-underline-offset: 5px;
+}
 
